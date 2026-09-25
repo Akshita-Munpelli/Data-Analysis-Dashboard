@@ -15,3 +15,11 @@ The dataset contains retail transaction data related to DMart, including informa
 - Which Product Category generated the highest sales?
 
 - Dashboard Interaction <a href ="https://github.com/Akshita-Munpelli/Data-Analysis-Dashboard/blob/main/dmart%20screenshot.png">View Dashboard</a>
+## Process
+- Data Collection – Used the DMart retail transaction dataset containing Order ID, Region, State, Category, Sales, Discount, Quantity, Order Date, Delivery Date, -Customer Type, Payment Mode, Profit, City, Discount Value, and Net Revenue.
+- Data Preparation – Organized the raw transaction data and prepared the required fields for analysis.
+- Data Analysis – Analyzed Sales, Profit, Quantity, Discount, Net Revenue, Orders, Regions, Categories, Customer Types, and Payment Modes.
+- KPI Calculation – Calculated key business metrics to measure overall sales and profitability performance.
+- Visual Analysis – Created analytical summaries and charts to identify sales trends, category performance, regional performance, customer patterns, and profitability.
+- Dashboard Development – Used the Dashboard sheet to present the important KPIs and visual insights in an interactive and easy-to-understand format.
+- Business Insights – Used the dashboard to understand which categories, regions, customers, and other business factors contribute to sales and profit.
