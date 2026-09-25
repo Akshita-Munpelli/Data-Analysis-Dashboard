@@ -32,4 +32,5 @@ The dataset contains retail transaction data related to DMart, including informa
   Used the dashboard to understand which categories, regions, customers, and other business factors contribute to sales and profit.
 
   ## Dashboard
-  <a href=""></a>
+ <img width="1212" height="781" alt="dmart screenshot" src="https://github.com/user-attachments/assets/7255c1f0-77a5-4b80-8c3b-6dbee9376087" />
+
