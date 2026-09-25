@@ -14,4 +14,4 @@ The dataset contains retail transaction data related to DMart, including informa
 - What is the Profit Margin (%)?
 - Which Product Category generated the highest sales?
 
-- Dashboard Interaction <a href ="">View Dashboard</a>
+- Dashboard Interaction <a href ="https://github.com/Akshita-Munpelli/Data-Analysis-Dashboard/blob/main/dmart%20screenshot.png">View Dashboard</a>
