@@ -30,3 +30,6 @@ The dataset contains retail transaction data related to DMart, including informa
   Used the Dashboard sheet to present the important KPIs and visual insights in an interactive and easy-to-understand format.
 - ### Business Insights
   Used the dashboard to understand which categories, regions, customers, and other business factors contribute to sales and profit.
+
+  ## Dashboard
+  <a href=""></a>
