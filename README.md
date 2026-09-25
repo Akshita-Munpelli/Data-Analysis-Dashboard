@@ -34,3 +34,23 @@ The dataset contains retail transaction data related to DMart, including informa
   ## Dashboard
  <img width="1212" height="781" alt="dmart screenshot" src="https://github.com/user-attachments/assets/7255c1f0-77a5-4b80-8c3b-6dbee9376087" />
 
+## Business Insights
+- ### Overall Performance:
+  he business generated approximately ₹3.93 crore in sales, ₹2.94 crore in net revenue, and ₹68.72 lakh in profit from 15,345 orders.
+- ### Regional Performance:
+  The North region generated the highest sales at approximately ₹1.01 crore, followed by South, West, and East.
+- ### Category Performance:
+  Electronics recorded the highest sales at approximately ₹80.18 lakh, while Clothing recorded the lowest among the five categories.
+- ### Monthly Trend:
+  February and April recorded relatively lower sales, while January and July were among the stronger months.
+- ### Payment Preference:
+  Cash generated the highest sales at approximately ₹1.31 crore, followed closely by UPI and Card payments.
+- ### Customer Type:
+  Sales were fairly balanced across New, Regular, and Member customers, with New customers contributing the highest sales at approximately ₹1.32 crore.
+- ### Profit by City:
+  Chennai generated the highest profit at approximately ₹11.65 lakh, followed by Delhi and Mumbai.
+- ### Revenue by Category:
+  Electronics generated the highest net revenue at approximately ₹59.75 lakh, closely followed by Personal Care and Home Care.
+
+  ## Final Conclusion
+  DMart can increase sales and profit by focusing on high-performing products and regions, improving weaker categories through targeted promotions, offering    customer loyalty benefits, and reducing unnecessary discounts. Better inventory management and focus on high-profit products can further support sustainable growth.
